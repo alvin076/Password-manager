@@ -101,7 +101,7 @@ website_text_box.grid(column=1, row=1)
 
 username_text_box = Entry(width=42)
 username_text_box.grid(column=1, row=2, columnspan=2)
-username_text_box.insert(0, 'alvinlocity76@gmail.com')
+username_text_box.insert(0, '@gmail.com')
 
 password_text_box = Entry(width=21)
 password_text_box.grid(column=1, row=3)
